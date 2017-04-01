@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+div{
+
+
+}
+.cover {
+  background-image: url(C:/Users/Xinyi/Documents/52labs/lab1-heyssshhh/img/background.png);
+  background-size: cover;
+}
+
+
+
+/*.container{
+  display: flex;
+  flex-direction: row | row-reverse | column | column-reverse;
+}
+.item{
+  order:<integer>;
+  flex-grow: <number>;
+}*/
