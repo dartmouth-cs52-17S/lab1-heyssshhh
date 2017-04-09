@@ -47,7 +47,7 @@ input {
 }
 
 .cover {
-  background-image: url(/img/background.jpg);
+  background-image: url(./img/background.jpg);
   background-size: 100% 100%;
   position:relative
   display: flex;
@@ -188,7 +188,7 @@ div.footnote_container a, li {
   flex-direction: row;
   justify-content: space-between;
   width: 100%;
-  background-image: url(/img/bottom.jpg);
+  background-image: url(./img/bottom.jpg);
   background-size: 100% 100%;
 }
 
