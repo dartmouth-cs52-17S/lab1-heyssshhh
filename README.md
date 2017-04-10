@@ -25,3 +25,4 @@
 * I tried to get the menu to cover the whole  page when clicked on in the mobile version but it didn't work so I had a dropdown menu instead
 * I wanted to have a little transition when the links expanded but didn't work so it's kinda ugly
 * I wanted to have the text ease in. It was semi successful because they did ease in but when the mouse left the page the text also disappears until the mouse returns. So I just took that part out.
+* The loading time for the background image was really slow. So I optimized by making the quality lower.
